@@ -3040,5 +3040,8 @@
 	},
 	{
 		"fileName": "../operate/all_hd20171231_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ba20171231_songs.json"
 	}
 ]
