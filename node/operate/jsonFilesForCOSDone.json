@@ -2980,5 +2980,8 @@
 	},
 	{
 		"fileName": "../operate/all_ynf20171230_songs.json"
+	},
+	{
+		"fileName": "../operate/all_mc20171231_songs.json"
 	}
 ]
