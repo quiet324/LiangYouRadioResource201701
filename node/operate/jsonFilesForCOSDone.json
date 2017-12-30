@@ -3049,5 +3049,8 @@
 	},
 	{
 		"fileName": "../operate/all_wa20171231_songs.json"
+	},
+	{
+		"fileName": "../operate/all_cwa20171231_songs.json"
 	}
 ]
