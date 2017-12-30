@@ -3052,5 +3052,8 @@
 	},
 	{
 		"fileName": "../operate/all_cwa20171231_songs.json"
+	},
+	{
+		"fileName": "../operate/all_be20171231_songs.json"
 	}
 ]
