@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20170930",
-		"title": "原来如此：转移公众注意力（主持：樊星原）",
-		"downUrl": "http://txly2.net/ly/audio/2017/gv/gv170930.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 8,
-		"artistName": "生活无国界",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201739/gv20170930/gv/gv170930.mp3",
-		"id": 8170930
-	},
-	{
 		"time": "20171001",
 		"title": "校园狂想American：差点没完成任务（嘉宾：常约瑟）",
 		"downUrl": "http://txly2.net/ly/audio/2017/gv/gv171001.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "生活无国界",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201752/gv20171230/gv/gv171230.mp3",
 		"id": 8171230
+	},
+	{
+		"time": "20171231",
+		"title": "认识你真好──采访音乐人陈德嘉（1）生活在冰箱中的人！（主持：钟荣凯）",
+		"downUrl": "http://txly2.net/ly/audio/2017/gv/gv171231.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 8,
+		"artistName": "生活无国界",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201701/gv20171231/gv/gv171231.mp3",
+		"id": 8171231
 	}
 ]
