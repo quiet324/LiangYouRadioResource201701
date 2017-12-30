@@ -3070,5 +3070,8 @@
 	},
 	{
 		"fileName": "../operate/all_vc20171231_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ds20171231_songs.json"
 	}
 ]
