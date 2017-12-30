@@ -3001,5 +3001,8 @@
 	},
 	{
 		"fileName": "../operate/all_ir20171231_songs.json"
+	},
+	{
+		"fileName": "../operate/all_mm20171231_songs.json"
 	}
 ]
