@@ -2992,5 +2992,8 @@
 	},
 	{
 		"fileName": "../operate/all_gv20171231_songs.json"
+	},
+	{
+		"fileName": "../operate/all_yu20171231_songs.json"
 	}
 ]
