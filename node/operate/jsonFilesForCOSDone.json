@@ -3031,5 +3031,8 @@
 	},
 	{
 		"fileName": "../operate/all_mw20171231_songs.json"
+	},
+	{
+		"fileName": "../operate/all_aw20171231_songs.json"
 	}
 ]
